@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marco, a computer science student at Pisa University
+- 👋 Hi, I’m Marco, a cybersecurity master degree student at Pisa University
 - 👀 I’m interested in a job offer, brief remunerable projects or giving private lessons
 - 🌱 I’m currently learning to work on EOSIO, a blockchain platform
 - 💞️ I’m looking to collaborate on any kind of project based on my current skill set!
